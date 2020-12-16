@@ -1,0 +1,3 @@
+/home/sanjeev/projects/testProject/CMakeFiles/rebuild_cache.dir
+/home/sanjeev/projects/testProject/CMakeFiles/edit_cache.dir
+/home/sanjeev/projects/testProject/CMakeFiles/SearchVector.dir

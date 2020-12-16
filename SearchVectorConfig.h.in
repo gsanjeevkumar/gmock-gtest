@@ -1,0 +1,2 @@
+#define SearchVector_VERSION_MAJOR @SearchVector_VERSION_MAJOR@
+#define SearchVector_VERSION_MINOR @SearchVector_VERSION_MINOR@

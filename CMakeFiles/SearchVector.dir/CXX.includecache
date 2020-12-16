@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sanjeev/projects/testProject/SearchVector.cpp
+iostream
+-
+SearchVectorConfig.h
+/home/sanjeev/projects/testProject/SearchVectorConfig.h
+
+/home/sanjeev/projects/testProject/SearchVectorConfig.h
+
